@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/noll-till-hundra/static/css/main.e6c13ad2.css",
+    "main.js": "/noll-till-hundra/static/js/main.14fc242c.js",
+    "static/js/787.e890f7ad.chunk.js": "/noll-till-hundra/static/js/787.e890f7ad.chunk.js",
+    "index.html": "/noll-till-hundra/index.html",
+    "main.e6c13ad2.css.map": "/noll-till-hundra/static/css/main.e6c13ad2.css.map",
+    "main.14fc242c.js.map": "/noll-till-hundra/static/js/main.14fc242c.js.map",
+    "787.e890f7ad.chunk.js.map": "/noll-till-hundra/static/js/787.e890f7ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.14fc242c.js"
+  ]
+}
